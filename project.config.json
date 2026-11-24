@@ -1,0 +1,14 @@
+{
+  "appid": "",
+  "projectname": "generic-mall-template",
+  "compileType": "miniprogram",
+  "miniprogramRoot": "apps/storefront/dist/build/mp-weixin/",
+  "cloudfunctionRoot": "cloudfunctions/",
+  "setting": {
+    "es6": true,
+    "minified": true,
+    "urlCheck": true,
+    "minifyWXML": true
+  },
+  "libVersion": "3.17.5"
+}

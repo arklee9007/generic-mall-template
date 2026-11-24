@@ -1,0 +1,9 @@
+{
+  "name": "通用商城模板",
+  "wechatAppId": "",
+  "cloudbase": {
+    "envId": "",
+    "region": "ap-shanghai",
+    "site": "domestic"
+  }
+}

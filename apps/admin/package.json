@@ -1,0 +1,22 @@
+{
+  "name": "@generic-mall/admin",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5174",
+    "build": "vite build",
+    "type-check": "vue-tsc --noEmit"
+  },
+  "dependencies": {
+    "@cloudbase/js-sdk": "^3.11.0",
+    "element-plus": "^2.14.8",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.4",
+    "typescript": "~5.7.3",
+    "vite": "^5.4.21",
+    "vue-tsc": "2.2.12"
+  }
+}
